@@ -7,6 +7,7 @@
 
 body {
   padding: 0;
+  font-family: DKCoolCrayon;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -87,6 +88,12 @@ body {
   max-height: 500px;
 }
 
-.coolFont{
-  font-family: DKCoolCrayon;
+
+.margin-top-5{
+  margin-top: 5px;
+}
+
+img{
+  border: solid 1px #ccc;
+  border-radius: 3px;
 }
