@@ -1,1 +1,1 @@
-web: ./node_modules/grunt/.bin/grunt --port $PORT
+web: grunt --port $PORT
