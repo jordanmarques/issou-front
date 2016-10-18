@@ -1,1 +1,1 @@
-web: npm install --g grunt-cli && ls -al && grunt --port $PORT
+web: npm install --save-dev grunt-cli && grunt --port $PORT
