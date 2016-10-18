@@ -1,1 +1,1 @@
-web: ./node_modules/bower/bin/bower install && ./node_modules/grunt-cli/bin/grunt serve
+web: export PATH=./node_modules/grunt-cli/bin/:$PATH && ./node_modules/bower/bin/bower install && PORT=$PORT grunt serve
