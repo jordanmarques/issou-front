@@ -40,6 +40,7 @@
   },
   "scripts": {
     "test": "grunt test",
+    "postinstall": "bower install && npm install && grunt build",
     "start": "grunt serve --port $PORT"
   }
 }
