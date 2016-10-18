@@ -4,7 +4,6 @@
  * @ngdoc function
  * @name issouFrontApp.controller:MainCtrl
  * @description
- * # MainCtrl
  * Controller of the issouFrontApp
  */
 angular.module('issouFrontApp')
